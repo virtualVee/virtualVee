@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! 👋 😄
+
+- 🌱 I’m currently learning React.
+- ⚡ Fun fact: more information doesn’t always mean more learning!
 
 <!--
 **virtualVee/virtualVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
