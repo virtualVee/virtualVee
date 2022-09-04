@@ -1,6 +1,6 @@
 ### Hi! 👋 😄
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning my way up to React.
 - ⚡ Fun fact: more information doesn’t always mean more learning!
 
 <!--
