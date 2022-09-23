@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning my way up to React.
 - ⚡ Fun fact: more information doesn’t always mean more learning!
 
+**Completed Projects**
+
+| Live Preview | Code |
+|:-|:-|
+| [Oding Recipes](https://virtualvee.github.io/odin_recipes/) | [odin_recipes](https://github.com/virtualVee/odin_recipes) |
+
 <!--
 **virtualVee/virtualVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
