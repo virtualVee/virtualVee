@@ -7,7 +7,7 @@
 
 | Live Preview | Code |
 |:-|:-|
-| [Oding Recipes](https://virtualvee.github.io/odin_recipes/) | [odin_recipes](https://github.com/virtualVee/odin_recipes) |
+| [Odin Recipes](https://virtualvee.github.io/odin_recipes/) | [odin_recipes](https://github.com/virtualVee/odin_recipes) |
 
 <!--
 **virtualVee/virtualVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
